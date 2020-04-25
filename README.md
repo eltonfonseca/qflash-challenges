@@ -21,3 +21,16 @@ For run tests
 ```bash
 $ rspec spec/custom_collatz_spec.rb
 ```
+## Challenge #2
+
+For run the code, enter on directory and run on console
+
+```bash
+$ ruby main.rb
+```
+
+For run tests
+
+```bash
+$ rspec spec/custom_collatz_spec.rb
+```
