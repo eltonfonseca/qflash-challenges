@@ -32,5 +32,5 @@ $ ruby main.rb
 For run tests
 
 ```bash
-$ rspec spec/custom_collatz_spec.rb
+$ rspec spec/text_processing_spec.rb
 ```
