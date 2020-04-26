@@ -49,3 +49,17 @@ For run tests
 ```bash
 $ rspec spec/text_processing_spec.rb
 ```
+
+## Challenge #3
+
+For run the code, enter on directory and run on console
+
+```bash
+$ ruby main.rb
+```
+
+For run tests
+
+```bash
+$ rspec spec/roman_date_spec.rb
+```
