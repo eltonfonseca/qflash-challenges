@@ -43,7 +43,7 @@ describe RomanDate do
 
   describe '#convert_to_roman' do
     context 'give one date' do
-      let!(:date) { ['21', '04', '2020'] }
+      let!(:date) { %w[21 04 2020] }
 
       it 'must be return roman date' do
         expect(roman_date.send(:convert_to_roman, date, '/')).to eq('XXI/IV/MMXX')
